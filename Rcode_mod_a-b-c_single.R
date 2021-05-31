@@ -1,7 +1,7 @@
 #R script: GLMMs for testing the single modalities and articulators
 
 rm(list=ls())
-setwd("C:/Users/Marlen Fröhlich/Documents/R")
+setwd("C:/Users/Marlen FrÃ¶hlich/Documents/R")
 int <- read.table ("ESM_2_data.csv", header=TRUE, sep=",", stringsAsFactors=TRUE)
 library(arm)
 library(car)
