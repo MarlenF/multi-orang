@@ -1,5 +1,5 @@
 rm(list=ls())
-setwd("C:/Users/Marlen Fröhlich/Documents/R")
+setwd("C:/Users/Marlen FrÃ¶hlich/Documents/R")
 library(lme4)
 library(car)
 
