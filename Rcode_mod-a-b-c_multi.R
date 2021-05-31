@@ -1,3 +1,5 @@
+#R script: GLMMs for testing multicomponent and multisensory acts
+
 rm(list=ls())
 setwd("C:/Users/Marlen Fröhlich/Documents/R")
 library(lme4)
